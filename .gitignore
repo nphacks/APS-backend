@@ -1,0 +1,5 @@
+project_docs
+__pycache__
+.env
+test_data
+deploy.md
